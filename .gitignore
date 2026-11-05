@@ -1,0 +1,13 @@
+.next/
+node_modules/
+out/
+.firebase/
+.env
+.env.*
+!.env.example
+android/app/google-services.json
+*.tsbuildinfo
+firebase-debug.log
+firestore-debug.log
+storage-debug.log
+ui-debug.log

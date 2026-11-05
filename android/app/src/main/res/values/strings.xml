@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DiNo</string>
+    <string name="title_activity_main">DiNo</string>
+    <string name="package_name">com.dino.audio</string>
+    <string name="custom_url_scheme">com.dino.audio</string>
+    <string name="audio_player_service_description">Allows DiNo to play audio in the background.</string>
+</resources>

@@ -1,0 +1,5 @@
+project_id = "dino-audio"
+
+[db.migrations]
+enabled = true
+schema_paths = []
